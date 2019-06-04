@@ -1,2 +1,2 @@
-# thoughtworks_homework
+# Thoughtworks homework
 Thoughtworks homework for interview. 
