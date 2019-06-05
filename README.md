@@ -1,2 +1,2 @@
 # Thoughtworks homework
-Thoughtworks homework for interview. 
+Thoughtworks frontend homework for interview. 
